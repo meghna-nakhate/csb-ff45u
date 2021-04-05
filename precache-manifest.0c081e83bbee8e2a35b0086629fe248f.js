@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4b7929a62ca2dfd24a1611519304a39",
+    "revision": "f2fe368bbb446336ad3e98c5534a3dd9",
     "url": "https://meghna-nakhate.github.io/csb-ff45u/index.html"
   },
   {
-    "revision": "4c9ad41c6ba9358fb9ca",
-    "url": "https://meghna-nakhate.github.io/csb-ff45u/static/css/main.c41ee3b4.chunk.css"
+    "revision": "a854c4cecd8c2a5b5cf8",
+    "url": "https://meghna-nakhate.github.io/csb-ff45u/static/css/main.9de59655.chunk.css"
   },
   {
     "revision": "d1e032bc3fab171ebb40",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://meghna-nakhate.github.io/csb-ff45u/static/js/2.91ea96dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4c9ad41c6ba9358fb9ca",
-    "url": "https://meghna-nakhate.github.io/csb-ff45u/static/js/main.26a374fc.chunk.js"
+    "revision": "a854c4cecd8c2a5b5cf8",
+    "url": "https://meghna-nakhate.github.io/csb-ff45u/static/js/main.c389fb22.chunk.js"
   },
   {
     "revision": "4c87070f11d9a911b2b3",
